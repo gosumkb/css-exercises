@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 128, 134);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: #226cf5;
+    font-size: 36px;
+}
+
+.eye-circle {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #22f568;
+    font-size: 24px;
+    font-weight: bold;
+}
